@@ -3,7 +3,7 @@
 [![Live Demo](https://img.shields.io/badge/LIVE-DEMO-brightgreen?style=for-the-badge)](https://weather-infot.surge.sh)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
-![WeatherCast Screenshot](https://prnt.sc/s8hJl5iFqH4b)
+![WeatherCast Screenshot](/public/weather.png)
 
 A real-time weather application with beautiful animations and comprehensive weather data.
 
